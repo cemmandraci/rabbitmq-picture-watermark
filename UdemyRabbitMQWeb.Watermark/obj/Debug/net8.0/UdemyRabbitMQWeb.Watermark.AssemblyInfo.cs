@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UdemyRabbitMQWeb.Watermark")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+967a3e36b67e6aa1c1718446385e26b3749ba1f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("UdemyRabbitMQWeb.Watermark")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UdemyRabbitMQWeb.Watermark")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
