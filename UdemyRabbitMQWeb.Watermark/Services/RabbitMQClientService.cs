@@ -13,7 +13,9 @@ public class RabbitMQClientService : IDisposable
 
     private readonly ILogger<RabbitMQClientService> _logger;
 
-    public RabbitMQClientService(ConnectionFactory connectionFactory, ILogger<RabbitMQClientService> logger)
+    public RabbitMQClientService(
+        ConnectionFactory connectionFactory,
+        ILogger<RabbitMQClientService> logger)
     {
         _connectionFactory = connectionFactory;
         _logger = logger;
@@ -34,7 +36,7 @@ public class RabbitMQClientService : IDisposable
 
         _channel.QueueDeclare(QueueName, true, false, false, null);
         
-        _channel.QueueBind(ExchangeName,QueueName,RoutingWatermark);
+        _channel.QueueBind(QueueName,ExchangeName,RoutingWatermark);
         
         _logger.LogInformation("RabbitMQ ile bağlantı kuruldu ...");
 

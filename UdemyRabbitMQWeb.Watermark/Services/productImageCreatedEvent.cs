@@ -2,5 +2,5 @@
 
 public class productImageCreatedEvent
 {
-    public string ImageName { get; set; }
+    public string? ImageName { get; set; }
 }
