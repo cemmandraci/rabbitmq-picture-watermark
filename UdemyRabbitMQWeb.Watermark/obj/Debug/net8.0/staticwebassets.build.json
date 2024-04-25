@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hlqDskwaMplG1jVH/eNKaD7TnGhHO5uFHDUXdTcX73A=",
+  "Hash": "LseWZq5RB9bPVRGeyi1W7Wv6WTfAgmc/hvbORtOs/eU=",
   "Source": "UdemyRabbitMQWeb.Watermark",
   "BasePath": "_content/UdemyRabbitMQWeb.Watermark",
   "Mode": "Default",
@@ -129,25 +129,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
-    },
-    {
-      "Identity": "C:\\Users\\10126796\\RiderProjects\\RabbitMQ.PictureWatermark\\UdemyRabbitMQ\\UdemyRabbitMQWeb.Watermark\\wwwroot\\images\\7b3def12-202c-4705-8db1-5af586a811a6.jpg",
-      "SourceId": "UdemyRabbitMQWeb.Watermark",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\10126796\\RiderProjects\\RabbitMQ.PictureWatermark\\UdemyRabbitMQ\\UdemyRabbitMQWeb.Watermark\\wwwroot\\",
-      "BasePath": "_content/UdemyRabbitMQWeb.Watermark",
-      "RelativePath": "images/7b3def12-202c-4705-8db1-5af586a811a6.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\7b3def12-202c-4705-8db1-5af586a811a6.jpg"
     },
     {
       "Identity": "C:\\Users\\10126796\\RiderProjects\\RabbitMQ.PictureWatermark\\UdemyRabbitMQ\\UdemyRabbitMQWeb.Watermark\\wwwroot\\js\\site.js",
